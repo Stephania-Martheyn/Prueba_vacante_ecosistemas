@@ -1,0 +1,6 @@
+pandas
+sqlite3
+pyinstaller
+smtplib
+email
+openpyxl
