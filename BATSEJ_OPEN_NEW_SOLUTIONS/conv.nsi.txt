@@ -1,8 +1,0 @@
-OutFile "setup.exe"
-InstallDir "$PROGRAMFILES\MyApp"
-Page Directory
-Page InstFiles
-Section "MainSection"
-    SetOutPath $INSTDIR
-    File "dist\main.exe"
-SectionEnd
